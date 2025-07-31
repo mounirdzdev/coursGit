@@ -1,2 +1,2 @@
 # coursGit
-je veux apprendre a utilisé le Git
+## il se compose de plusieurs chapitres
